@@ -1,5 +1,5 @@
 ### Hi there 👋,
-🧑🏻‍💻 I’m currently working on new project for a Call Center Management.
+🧑🏻‍💻 I’m currently working on new project for a Embedded System.
 Stay Tuned 🔥
 
 <!--
