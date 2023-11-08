@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giuseppericcio" alt="giuseppericcio" /> </p>
 
-- 📚 I'm currently working on **Big Data Engineering** project and so on... 
+- 📚 I'm currently working on **MSc Internship Project** using Big Data techniques. 
  
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/giuseppericcio?tab=repositories)
 
