@@ -3,11 +3,11 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Giuseppe Riccio</h1>
-<h3 align="center">A Computer Engineer MSc students in University of Naples Federico II</h3>
+<h3 align="center">A Computer Engineering MSc. graduated students in University of Naples Federico II</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giuseppericcio" alt="giuseppericcio" /> </p>
 
-- 📚 I'm currently working on **MSc Internship Project** using Big Data techniques. 
+- 📚 I'm graduated in _Data Engineering and Artificial Intelligence_ with a thesis on **Healthcare AI Systems** in March 2024. 
  
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/giuseppericcio?tab=repositories)
 
@@ -15,7 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/giuseppe-riccio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giuseppericcio" height="30" width="40" /></a> <a href="https://twitter.com/giuseppericcio_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giuseppericcio" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/giuseppe-riccio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giuseppericcio" height="30" width="40" /></a> 
+  <a href="https://twitter.com/giuseppericcio_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giuseppericcio" height="30" width="40" /></a>
+  <a href="https://instagram.com/_giuseppericcio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_giuseppericcio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
