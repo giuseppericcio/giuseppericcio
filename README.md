@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Giuseppe Riccio</h1>
-<h3 align="center">A Data Engineering MSc. Graduated Students in University of Naples Federico II</h3>
+<h3 align="center">A Data Engineering MSc. Graduated Student in University of Naples Federico II</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giuseppericcio" alt="giuseppericcio" /> </p>
 
